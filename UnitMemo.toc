@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: UnitMemo
+## Notes: Shows information about a target
+## Version: 06.10.2018
+## Author: thekk
+## eMail: thekk@gmx.de
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: posX, posY, showRes, showType, showAlways, selfNotes
+UnitMemo.xml
+Notes.lua
+UnitMemo.lua
