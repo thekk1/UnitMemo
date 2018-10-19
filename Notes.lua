@@ -1,6 +1,6 @@
 -- UnitMemo
 -- by thekk
--- 06.10.2018
+-- 20.10.2018
 
 if GetLocale() == "enGB"
 or GetLocale() == "enUS" then
